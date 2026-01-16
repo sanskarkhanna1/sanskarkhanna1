@@ -10,7 +10,6 @@
 🧠 **Programming & Logic**  
 - Python 🐍  
 - Object Oriented Programming (OOP) 🧩  
-- Basic + Medium Coding Questions 💡  
 - SQL 💾  
 
 🧪 **Automation Testing**  
@@ -33,7 +32,7 @@
 - GitHub Actions 🤖  
 
 ☁️ **Cloud & DevOps Basics**  
-- AWS Basics ☁️  
+- AWS ☁️  
 
 ---
 
